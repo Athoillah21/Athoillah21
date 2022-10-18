@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Muhammad Atho'illah a Freshgraduate Undergraduate in Geophysics from Gadjah Mada University. . I love to explore and learn about new domains not limited to Data related topics, computational geophysics topics until an advanced cloud computation.</i></p>
+<p><i> I'm Muhammad Atho'illah a Freshgraduate Undergraduate in Geophysics from Gadjah Mada University. I love to explore and learn about new domains not limited to Data related topics, computational geophysics topics until an advanced cloud computation.</i></p>
 
 - 🌱 I’m currently learning **Data Engineer within scope in ETL Development and Cloud Computing Processing**
 
@@ -21,7 +21,7 @@
 
 <hr>
 
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
 ### 🚀 Languages
 
@@ -44,7 +44,7 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
-### 🧱 Databases
+### 🗃️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -63,6 +63,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+<hr>
 
 ## 📈 Stats
 
