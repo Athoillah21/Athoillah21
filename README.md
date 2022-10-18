@@ -1,12 +1,25 @@
-<h1 align="center">Hi, I'm Muhammad Atho'illah 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Athoillah+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
+  </a>
+</h1>
+
+<!-- <h1 align="center">Hi, I'm Muhammad Atho'illah 👋</h1> -->
 <h3 align="center">A Passionate Data Engineer Learner</h3>
+
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+
+<p><i> I'm Muhammad Atho'illah a Freshgraduate Undergraduate in Geophysics from Gadjah Mada University. . I love to explore and learn about new domains not limited to Data related topics, computational geophysics topics until an advanced cloud computation.</i></p>
 
 - 🌱 I’m currently learning **Data Engineer within scope in ETL Development and Cloud Computing Processing**
 
 - 💬 Ask me about **AWS Cloud Computing, Data Modelling and ETL Processing**
 
-- 📫 You can reach me on **muhammadathoillah62@gmail.com**
+- 📫 You can reach me on **<code><a href="linkedin.com/in/muhammadathoillah/">LinkedIn</a></code>** **<code>[Gmail](mailto:muhammadathoillah62@gmail.com)</code>**
 
+- 👨‍💻 Check out my projects **<code>[here!](https://github.com/athoillah21?tab=repositories)</code>**
+
+<hr>
 
 ## ⚡ Tech Stack
 
