@@ -68,10 +68,16 @@
 ## 📈 Stats
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=athoillah21&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Athoillah21&theme=radical" />
+  <img alt="most-commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Athoillah21&theme=radical" />
 </p>
-
-
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athoillah21&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="athoillah21" /></p>
-
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athoillah21&layout=compact&hide_border=true&theme=radical" alt="athoillah21" /></p>
+<p align='center'>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Athoillah21&theme=radical" alt="athoillah21" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Athoillah21&theme=radical&utcOffset=7" alt="athoillah21" />
+</p>
+<p align='center'>
+  <img align="center" src="https://streak-stats.demolab.com/?user=Athoillah21&theme=radical&hide_border=true" alt="athoillah21" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Athoillah21&theme=radical" />
+</p>
