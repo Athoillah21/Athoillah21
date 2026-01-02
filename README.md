@@ -75,9 +75,7 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Athoillah21&theme=radical" alt="athoillah21" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Athoillah21&theme=radical&utcOffset=7" alt="athoillah21" />
 </p>
-<p align='center'>
-  <img align="center" src="https://streak-stats.demolab.com/?user=Athoillah21&theme=radical&hide_border=true" alt="athoillah21" />
-</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Athoillah21&theme=radical" />
 </p>
